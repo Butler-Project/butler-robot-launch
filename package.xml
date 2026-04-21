@@ -13,7 +13,6 @@
   <exec_depend>ddsm115_driver</exec_depend>
   <exec_depend>imu_driver_node</exec_depend>
   <exec_depend>robot_tf_publisher</exec_depend>
-  <exec_depend>ydlidar_ros2_driver</exec_depend>
   <exec_depend>tmini_driver_node</exec_depend>
   <exec_depend>odometry_node</exec_depend>
   <exec_depend>foxglove_bridge</exec_depend>
